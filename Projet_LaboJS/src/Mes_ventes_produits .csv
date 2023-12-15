@@ -1,0 +1,11 @@
+ID,Nom,[Quantité,Prix,Unité,Total Prix,Paiement,Numéro de téléphone,Adresse de livraison,Ville , Région,Code postal,Pays,Administrateur,Date de Commande,Commande ID
+1,Chargeur rapide,1,17.99 EUR,Unité,17.99 EUR,En espéces,32492837658,Rue Ovide dieu 92 0021,La bouverie,Hainaut,7080,Belgique,Vincent Le Baner,03/11/22,d9f6dd4a
+2,Ecouteur Bluetooth sans fil iOS/Android,1,39.99 EUR,Unité,39.99 EUR,En espéces,32492837658,Rue Ovide dieu 92 0021,La bouverie,Hainaut,7080,Belgique,Vincent Le Baner,03/11/22,bc55eb3a
+3,Ecouteur Bluetooth sans fil iOS/Android,1,19.99 EUR,Unité,19.99 EUR,En espéces,32474835689, Raversijdestraat 50C,Ostende,Flandre,8400,Belgique,Vincent Le Baner,03/11/22,70144cc0
+4,Ecouteur Bluetooth,1,19.99 EUR,Unité,19.99 EUR,En espéces,32474835689, Raversijdestraat 50C,Ostende,Flandre,8400,Belgique,Vincent Le Baner,3/14/2022,5b8a4e75
+5,Support téléphone,1,"14,99 EUR",Unité,"14,99 EUR",En espéces,32474835689, Raversijdestraat 50C,Ostende,Flandre,8400,Belgique,Vincent Le Baner,3/15/2022,94e3e53e
+6,Ecouteur Bluetooth sans fil iOS/Android,1,"39,99 EUR",Unité,"39,99 EUR",En espéces,32474569874,Rue des clers 54 ,Mons,Hainaut,7000,Belgique,Vincent Le Baner,3/18/2022,4ac39b3e
+7,Support téléphone,1,"14,99 EUR",Unité,"14,99 EUR",En espéces,32492589872,Rue d'havray 12,Mons,Hainaut,7000,Belgique,Vincent Le Baner,3/19/2022,969871b6
+8,Support téléphone,1,"14,99 EUR",Unité,"14,99 EUR",En espéces,32492568987,Rue des Alliés 58 ,Bruxelles,Bruxelles,1000,Belgique,Vincent Le Baner,3/20/2022,2cfe27f8
+9,Ecouteur Bluetooth,1,"19,99 EUR",Unité,"19,99 EUR",En espéces,32652569632,Jule Destrés 121,La Louviére,Hainaut,7100,Belgique,Vincent Le Baner,3/20/2022 ,8a06e9bd
+10,Support téléphone,1,"14,99 EUR",Unité,"14,99 EUR",En espéces,3265874712,Place de la bouverie 1,La bouverie,Hainaut,7080,Belgique,Vincent Le Baner,3/21/2022,bacee4f6

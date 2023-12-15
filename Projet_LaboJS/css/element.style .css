@@ -1,0 +1,82 @@
+element.style {
+    bottom: 0px;
+}
+
+#uhchatboz {
+    width: 320px;
+    height: 305px;
+    display: block;
+    background: url(https://uhchat.net/themes/chat-1.png) no-repeat;
+    text-align: center;
+    padding-top: 45px;
+    position: fixed;
+    bottom: -320px;
+    right: 20px;
+    z-index: 99999999999999;
+    box-sizing: content-box;
+}
+
+#uhchatboz {
+    width: 320px;
+    height: 305px;
+    display: block;
+    background: url("https://uhchat.net/themes/chat-1.png") no-repeat;
+    text-align: center;
+    padding-top: 45px;
+    position: fixed;
+    bottom: -320px;
+    right: 20px;
+    z-index: 99999999999999;
+    box-sizing: content-box;
+}
+
+#uhchatboz iframe {
+    border: none;
+    width: 304px !important;
+    height: 305px !important;
+    margin: 0px !important;
+    position: relative !important;
+    display: inline !important;
+}
+
+#uhchatboz:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width: 320px) {
+    #uhchatboz {
+        right: 0px !important;
+    }
+}
+
+#panel_chat_vatgia {
+    display: none !important;
+}
+
+.zopim {
+    display: none !important;
+}
+
+.zchat {
+    display: none !important;
+}
+
+.copyrightin {
+    display: none !important;
+}
+
+#tawkchat-minified-box {
+    display: none !important;
+}
+
+.embed-responsive {
+    padding-bottom: 100% !important;
+}
+
+.sbzoff {
+    display: none !important;
+}
+
+.sbzon {
+    display: none !important;
+}

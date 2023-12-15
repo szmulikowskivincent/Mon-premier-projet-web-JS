@@ -1,0 +1,85 @@
+body {
+    margin: 190px;
+    color: rgb(0, 0, 0);
+    font: 1em "lucida grande", arial;
+    background: linear-gradient(
+      to right,
+      rgb(0, 0, 0),
+      rgb(0, 0, 0),
+      rgb(56, 55, 55)
+    );
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  #menu > li {
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+    background: #333;
+    color: #fff;
+    height: 300px;
+    width: 300px;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border-radius: 15px;
+  }
+  li ul {
+    font-size: 0.85em;
+    margin: 8px;
+    line-height: 1.4;
+  }
+
+  img {
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: none;
+    border-radius: 15px;
+    /* Already working on webkit */
+
+    -webkit-transition-property: padding-left;
+    -webkit-transition-duration: 0.5s;
+    -webkit-transition-timing-function: ease-out;
+
+    /* When being supported by FF */
+
+    -moz-transition-property: padding-left;
+    -moz-transition-duration: 0.5s;
+    -moz-transition-timing-function: ease-out;
+
+    /* … and if it's standardised one day (#optimism) */
+
+    transition-property: padding-left;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out;
+  }
+  img:hover,
+  img:focus {
+    padding-left: 140px;
+  }
+
+  a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .avatar {
+    vertical-align: middle;
+    margin-left: 12%;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    color: rgb(13, 226, 180);
+    font-size: 0px;
+  }
+
+  .button{
+    margin-right: auto;
+    border-radius: 50%;
+  }
+
+  
